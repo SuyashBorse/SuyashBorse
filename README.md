@@ -1,4 +1,6 @@
-      
+<div align="center">
+  <img src="./header.svg" width="854" alt="Suyash Borse Header" />
+</div>
   <img class="img3"
     src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Intuitive+User+Experiences;Learning+JAVA+%26+DSA;"
     alt="Typing Animation" />
