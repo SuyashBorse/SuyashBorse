@@ -5,7 +5,6 @@
       justify-content: center;
       padding-left: 4vw;
     }
-
     .img3 {
       color: rgb(188, 158, 244);
     }
