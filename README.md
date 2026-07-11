@@ -36,8 +36,9 @@
     </td>
     <td width="50%" valign="top">
       <h3>💡 My Philosophy</h3>
-      <p>I believe in writing clean, maintainable code that bridges the gap between sophisticated engineering and
-        intuitive user design. I'm constantly learning and enjoy participating in hackathons to test my limits.</p>
+      <p>
+        "Write code to be read, learn to expand my mind, but build to solve the problem."
+       </p>
     </td>
   </tr>
 </table>
@@ -71,13 +72,13 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,spring,react,ts,js,nodejs,express,tailwind,mongodb,mysql,git,docker,figma,postman&theme=dark&perline=7"
+    src="https://skillicons.dev/icons?i=java,react,js,nodejs,express,tailwind,mongodb,git,figma&theme=dark&perline=7"
     alt="Tech Stack" />
 </div>
 
 <br />
 
-<h2 align="center">✦ GitHub Analytics ✦</h2>
+<!-- <h2 align="center">✦ GitHub Analytics ✦</h2>
 
 <div align="center">
   <img
@@ -99,4 +100,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=omkhandare55&label=Profile+Views&color=8B5CF6&style=for-the-badge"
     alt="Profile Views" />
-</div>
+</div>  -->
