@@ -9,12 +9,12 @@
 
   <br />
 
-  <a href="https://linkedin.com/in/SuyashBorse"><img
+  <a target="_blank" href="https://linkedin.com/in/SuyashBorse"><img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"></a>
-  <a href="mailto:suyash.a.borse@gmail.com"><img
+  <a  target="_blank"   href="mailto:suyash.a.borse@gmail.com"><img
       src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://twitter.com/omkhandare55"><img
+  <a  target="_blank"     href="https://twitter.com/omkhandare55"><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="Twitter"></a>
 
