@@ -29,10 +29,10 @@
     <td width="50%" valign="top">
       <h3>🚀 Current Focus</h3>
       <ul>
-        <li>Building <b>Debugra</b> (AI Collaborative IDE)</li>
-        <li>Building <b>NoteFlow</b> (Smart Productivity App)</li>
-        <li>Mastering <b>Advanced DSA with Java</b></li>
+        <li>Learning <b> DSA with Java</b></li>
         <li>Exploring <b>System Design Architecture</b></li>
+        <li>Learning <b> Javascript </b> </li>
+        <li>Developing <b> problem solving skill </b> </li>
       </ul>
     </td>
     <td width="50%" valign="top">
