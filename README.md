@@ -42,6 +42,14 @@
     </td>
   </tr>
 </table>
+<br />
+<h2 align="center">✦ Tech Arsenal ✦</h2>
+
+<div align="center">
+  <img
+    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp&theme=dark&perline=7"
+    alt="Tech Stack" />
+</div>
 
 <br />
 
