@@ -52,7 +52,7 @@
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp&perline=7"
+    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp,maven,gradle,typescript,firebase,supabase&perline=7"
     alt="Tech Stack" />
 </div>
 
