@@ -12,7 +12,23 @@
       from { opacity: 0; }
       to { opacity: 1; } 
     }
+
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 200" width="854">
+  <style>
+    .name-text { fill: #000000; } /* Black in Light Mode */
+    @media (prefers-color-scheme: dark) {
+      .name-text { fill: #FFFFFF; } /* White in Dark Mode */
+    }
   </style>
+
+  <!-- Make sure your text has class="name-text" -->
+  <text class="name-text" x="50%" y="50%" text-anchor="middle" font-size="32">
+    Suyash Borse
+  </text>
+</svg>
+
+  </style>
+  
         
   <defs>
     <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
