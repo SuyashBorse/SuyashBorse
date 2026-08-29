@@ -1,20 +1,23 @@
 <div align="center">
-  <img src="./header.svg" width="854" alt="Suyash Borse Header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="./header-light.svg#gh-light-mode-only">
+    <img src="./header-light.svg" width="854" alt="Suyash Borse Header" />
+  </picture>
 </div>
 
 <div align="center">
-  <img  src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Intuitive+User+Experiences;Learning+JAVA+%26+DSA;"
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Intuitive+User+Experiences;Learning+JAVA+%26+DSA;"
     alt="Typing Animation" />
-  </a>
 
   <br />
 
-  <a  href="https://linkedin.com/in/SuyashBorse" target="_blank"><img
+  <a href="https://linkedin.com/in/SuyashBorse" target="_blank"><img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"></a>
-  <a  href="mailto:suyash.a.borse@gmail.com" target="_blank" ><img
+  <a href="mailto:suyash.a.borse@gmail.com" target="_blank"><img
       src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- <a  href= target="_blank" ><img
+  <!-- <a href= target="_blank"><img
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"
       alt="Twitter"></a> -->
 </div>
@@ -28,28 +31,29 @@
     <td width="50%" valign="top">
       <h3>🚀 Current Focus</h3>
       <ul>
-        <li>Learning <b> DSA with Java</b></li>
+        <li>Learning <b>DSA with Java</b></li>
         <li>Exploring <b>System Design Architecture</b></li>
-        <li>Learning <b> Javascript </b> </li>
-        <li>Developing <b> problem solving skill </b> </li>
+        <li>Learning <b>Javascript</b></li>
+        <li>Developing <b>problem solving skill</b></li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>💡 My Philosophy</h3>
       <p>
         "Write code to be read, learn to expand my mind, but build to solve the problem."
-       </p>
+      </p>
     </td>
   </tr>
 </table>
+
 <br />
+
 <h2 align="center">✦ Tech Arsenal ✦</h2>
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp&theme=dark&perline=7"
+    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp&perline=7"
     alt="Tech Stack" />
 </div>
 
 <br />
-
