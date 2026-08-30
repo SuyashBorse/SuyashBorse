@@ -33,7 +33,7 @@
       <ul>
         <li>Learning <b>DSA with Java</b></li>
         <li>Exploring <b>System Design Architecture</b></li>
-        <li>Learning <b>Javascript</b></li>
+        <li>Learning <b>JAVA SpringBoot</b></li>
         <li>Developing <b>problem solving skill</b></li>
       </ul>
     </td>
