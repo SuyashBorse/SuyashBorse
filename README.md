@@ -17,9 +17,9 @@
       alt="LinkedIn"></a>
   <a href="mailto:suyash.a.borse@gmail.com" target="_blank"><img
       src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <!-- <a href= target="_blank"><img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"
-      alt="Twitter"></a> -->
+  <a href= target="_blank">https://www.codechef.com/users/rcpit251109101<img
+      src="https://img.shields.io/badge/Codechef-1DA1F2?style=for-the-badge&logo=Codechef&logoColor=white"
+      alt="Codechef"></a>
 </div>
 
 <br />
