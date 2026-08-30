@@ -51,9 +51,24 @@
 <h2 align="center">✦ Tech Arsenal ✦</h2>
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=java,css,js,tailwind,git,figma,cpp,maven,gradle,typescript,firebase,supabase&perline=7"
-    alt="Tech Stack" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark&perline=8" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=tailwind,figma&theme=dark&perline=8" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,firebase,supabase&theme=dark&perline=8" />
+
+**Tooling**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle&theme=dark&perline=8" />
+
 </div>
 
-<br />
+<br/>
+
