@@ -74,16 +74,8 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuyashBorse&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=8B949E&rank_icon=github" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBorse&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&langs_count=8" height="195" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashBorse&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" width="70%" />
-</div>
-
-<br/>
+<!--![](https://github-readme-stats.shion.dev/api?username=OmSultane&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+![](https://streak-stats.demolab.com/?user=SuyashBorse&theme=merko&hide_border=false)<br/>
+<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=OmSultane&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)-->
 
 ---
-
