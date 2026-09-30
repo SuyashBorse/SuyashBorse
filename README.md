@@ -72,7 +72,7 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+<h2 align="center">✦ 📊 GitHub Analytics ✦</h2>
 
 <div align="center">
 
