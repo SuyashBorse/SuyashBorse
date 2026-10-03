@@ -24,7 +24,7 @@
 
 <br />
 
-<h2 align="center">✦ About Me ✦</h2>
+<h2 align="center">✦ 🧑‍💻About Me ✦</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -48,7 +48,7 @@
 
 <br />
 
-<h2 align="center">✦ Tech Arsenal ✦</h2>
+<h2 align="center">✦ 🛠️Tech Arsenal ✦</h2>
 
 <div align="center">
 
