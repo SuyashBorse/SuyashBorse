@@ -58,7 +58,7 @@
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=tailwind,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=tailwind,figma,vite&theme=dark&perline=8" />
 
 **Backend & Databases**
 
@@ -66,7 +66,7 @@
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,gradle,postman&theme=dark&perline=8" />
 
 </div>
 
