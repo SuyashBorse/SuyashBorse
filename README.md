@@ -75,8 +75,8 @@
 <h2 align="center">✦ 📊 GitHub Analytics ✦</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashBorse&theme=midnight-purple&hide_border=true&timezone=IST&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E" width="70%" />
-
+  <img src="https://streak-stats.demolab.com/?user=SuyashBorse&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E&v=1" width="70%" />
+</div>
   
 </div>
 <div align="center">
