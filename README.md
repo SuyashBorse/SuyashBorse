@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg#gh-dark-mode-only">
     <source media="(prefers-color-scheme: light)" srcset="./header-light.svg#gh-light-mode-only">
@@ -6,7 +6,7 @@
   </picture>
 </div>
 
-<div align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Crafting+Intuitive+User+Experiences;Learning+JAVA+%26+DSA;"
     alt="Typing Animation" />
 
