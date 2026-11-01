@@ -82,7 +82,7 @@
   
 </div>
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=SuyashBorse&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=8B949E&rank_icon=github" height="195" />
+<img src="https://github-stats-extended.vercel.app/api?username=SuyashBorse&rank_icon=github&custom_title=My%20Github%20Stats.&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&icon_color=7C3AED&langs_count=8" height="195" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBorse&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&langs_count=8" height="195" />
 </div>
 
