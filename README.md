@@ -28,6 +28,14 @@
 
 <h2 align="center">✦ 🧑‍💻About Me ✦</h2>
 
+I’m **Suyash Borse**, a B.Tech Information Technology student at **R. C. Patel Institute of Technology, Shirpur**, driven by building reliable software from the database schema up to the user interface.
+
+- 💻 **What I'm building:** Scalable full-stack apps using the **Java & JavaScript ecosystems**.
+- 🧠 **Problem Solving:** Consistently grinding **DSA in Java** to write optimized, performant logic.
+- 🤝 **Community & Collaboration:** Technical Team Member at **GDG On-Campus RCPIT** and active hackathon competitor.
+- 🎯 **Current Focus:** Deepening expertise in **Spring Boot** and backend system architecture.
+
+<br>
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
