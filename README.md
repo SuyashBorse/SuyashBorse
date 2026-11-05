@@ -82,20 +82,5 @@ I’m **Suyash Borse**, a B.Tech Information Technology student at **R. C. Patel
 
 <br/>
 
-<h2 align="center">✦ 📊 GitHub Analytics ✦</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=SuyashBorse&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E&v=1" width="70%" />
-</div>
-  
-</div>
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=SuyashBorse&rank_icon=github&custom_title=My%20Github%20Stats.&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&icon_color=7C3AED&langs_count=8" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashBorse&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=8B949E&langs_count=8" height="195" />
-</div>
-
-
-<br/>
-
 
 ---
